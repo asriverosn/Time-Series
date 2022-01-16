@@ -1,3 +1,3 @@
-# Weather
+# Time Series
 
-Predicción del tiempo en distintos paises, en el año 2020
+Predicción del tiempo en Chile
