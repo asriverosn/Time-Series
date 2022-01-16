@@ -1,3 +1,3 @@
-# Weather-EU
+# Weather
 
-Predicción del tiempo en el continente europeo
+Predicción del tiempo en distintos paises, en el año 2020
